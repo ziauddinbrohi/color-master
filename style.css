@@ -1,0 +1,27 @@
+body {
+    background-color: gainsboro;
+}
+
+ol {
+    list-style-type: disc;
+    color: green;
+    text-decoration: underline;
+    background-color: greenyellow;
+    ;
+}
+
+li {}
+
+h1 {
+    background-color: bisque;
+    color: red;
+}
+
+.pd {
+    background-color: white;
+    color: bisque;
+}
+
+.last {
+    text-decoration: solid;
+}
